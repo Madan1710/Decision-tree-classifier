@@ -8,6 +8,7 @@ FLOWCHART
 <img width="500" alt="image" src = "https://github.com/Madan1710/Decision-tree-classifier/blob/main/FlowChart.png">
 
 VISUALIZATION
+
 <LI>The decision tree structure can be visualized to interpret how decisions are made.
 <LI>Insights from the tree can help improve interpretability and optimize the model.
 
